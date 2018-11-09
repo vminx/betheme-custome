@@ -19,6 +19,8 @@ if( ! function_exists( 'mfn_builder_styles' ) )
 	 */
 	function mfn_builder_styles() {
 		wp_enqueue_style( 'mfn-builder', LIBS_URI. '/builder/css/style.css', false, time(), 'all');
+		// 在后台添加一个样式表,显示隐藏角色的菜单权限
+		wp_enqueue_style( 'mfn-role-control', LIBS_URI. '/builder/css/admin-role-control.css', false, time(), 'all');
 	}
 }
 add_action('admin_print_styles', 'mfn_builder_styles');

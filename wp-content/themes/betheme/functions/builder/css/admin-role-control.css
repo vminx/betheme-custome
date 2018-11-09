@@ -1,0 +1,18 @@
+/*顶栏-快捷新增下拉-模板*/
+.role-product_manage #wp-admin-bar-new-template,
+/*顶栏-后台的logo*/
+.role-product_manage #wp-admin-bar-wp-logo,
+/*顶栏-评论小图标*/
+.role-product_manage #wp-admin-bar-comments,
+/*顶栏-显示选项&帮助*/
+.role-product_manage #screen-meta-links,
+/*左侧-不需要的菜单*/
+.role-product_manage #menu-dashboard,
+.role-product_manage #menu-comments,
+.role-product_manage #menu-posts-template,
+.role-product_manage #toplevel_page_wpcf7,
+.role-product_manage #toplevel_page_woocommerce,
+.role-product_manage #menu-tools,
+.role-product_manage #toplevel_page_wpjam-topics,
+/*底部-wordpress的版权信息*/
+.role-product_manage #wpfooter{display:none}
