@@ -127,9 +127,7 @@ if( ! function_exists( 'mfn_styles' ) )
 		$theme_disable = mfn_opts_get( 'theme-disable' );
 
 		// wp_enqueue_style ------------------------------------------------------
-		// 这个路径需要修改下,不然没法做七牛cdn
-		// wp_enqueue_style( 'style', get_stylesheet_uri(), false, THEME_VERSION );
-		wp_enqueue_style( 'style', THEME_URI .'/style.css', false, THEME_VERSION );
+		wp_enqueue_style( 'style', get_stylesheet_uri(), false, THEME_VERSION );
 
 		wp_enqueue_style( 'mfn-base', THEME_URI .'/css/base.css', false, THEME_VERSION );
 		wp_enqueue_style( 'mfn-layout', THEME_URI .'/css/layout.css', false, THEME_VERSION );
@@ -140,8 +138,9 @@ if( ! function_exists( 'mfn_styles' ) )
 			wp_enqueue_style( 'mfn-animations',	THEME_URI .'/assets/animations/animations.min.css', false, THEME_VERSION );
 		}
 
+		// 改动编号：TH0001 |   当前网站不需要jplayer
 		wp_enqueue_style( 'mfn-jquery-ui', THEME_URI .'/assets/ui/jquery.ui.all.css', false, THEME_VERSION );
-		wp_enqueue_style( 'mfn-jplayer', THEME_URI .'/assets/jplayer/css/jplayer.blue.monday.css', false, THEME_VERSION );
+		// wp_enqueue_style( 'mfn-jplayer', THEME_URI .'/assets/jplayer/css/jplayer.blue.monday.css', false, THEME_VERSION );
 
 		// rtl | demo -----
 		if( $_GET && key_exists( 'mfn-rtl', $_GET ) ){
@@ -664,16 +663,17 @@ if( ! function_exists( 'mfn_scripts' ) )
 {
 	function mfn_scripts()
 	{
+		// 改动编号：TH0003  |   移除jquery-ui-accordion jquery-animations jquery-jplayer 三个插件
 		wp_enqueue_script( 'jquery-ui-core', THEME_URI .'/assets/ui/jquery.ui.core.js', array( 'jquery' ), THEME_VERSION, true );
 		wp_enqueue_script( 'jquery-ui-widget', THEME_URI .'/assets/ui/jquery.ui.widget.js', array( 'jquery' ), THEME_VERSION, true );
 		wp_enqueue_script( 'jquery-ui-tabs', THEME_URI .'/assets/ui/jquery.ui.tabs.js', array( 'jquery' ), THEME_VERSION, true );
-		wp_enqueue_script( 'jquery-ui-accordion', THEME_URI .'/assets/ui/jquery.ui.accordion.js', array( 'jquery' ), THEME_VERSION, true );
+		// wp_enqueue_script( 'jquery-ui-accordion', THEME_URI .'/assets/ui/jquery.ui.accordion.js', array( 'jquery' ), THEME_VERSION, true );
 
 		wp_enqueue_script( 'jquery-plugins', THEME_URI .'/js/plugins.js', array( 'jquery' ), THEME_VERSION, true );
 		wp_enqueue_script( 'jquery-mfn-menu', THEME_URI .'/js/menu.js', array( 'jquery' ), THEME_VERSION, true );
 
-		wp_enqueue_script( 'jquery-animations', THEME_URI .'/assets/animations/animations.min.js', array( 'jquery' ), THEME_VERSION, true );
-		wp_enqueue_script( 'jquery-jplayer', THEME_URI .'/assets/jplayer/jplayer.min.js', array( 'jquery' ), THEME_VERSION, true );
+		// wp_enqueue_script( 'jquery-animations', THEME_URI .'/assets/animations/animations.min.js', array( 'jquery' ), THEME_VERSION, true );
+		// wp_enqueue_script( 'jquery-jplayer', THEME_URI .'/assets/jplayer/jplayer.min.js', array( 'jquery' ), THEME_VERSION, true );
 
 		$parallax = mfn_parallax_plugin();
 		if( $parallax == 'translate3d' ){

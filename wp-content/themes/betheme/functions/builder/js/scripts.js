@@ -1149,7 +1149,7 @@ jQuery(document).mouseup(function(e)
 });
 
 
-// 自定义后台快捷键
+// 自定义后台快捷键 ⌘+enter
 document.onkeydown=function(e){ //对整个页面监听  
 	var keyNum=window.event ? e.keyCode :e.which;       //获取被按下的键值  
 		// ⌘+enter 触发文章"更新"按钮
