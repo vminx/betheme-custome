@@ -150,6 +150,15 @@ if ( !get_user_setting('unfold') )
 if ( is_admin_bar_showing() )
 	$admin_body_class .= ' admin-bar';
 
+/* 后台暴露用户当前的角色名,方便某些模块显示隐藏 vminx 2018年10月25日23:55:27 */
+global $current_user;
+if ( in_array( 'administrator', $current_user->roles )  )
+	$admin_body_class .= ' role-'. 'administrator';
+else {
+	$admin_body_class .= ' role-'. $current_user->roles[1];
+}
+
+
 if ( is_rtl() )
 	$admin_body_class .= ' rtl';
 
