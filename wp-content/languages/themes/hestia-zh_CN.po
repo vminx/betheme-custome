@@ -1,0 +1,1245 @@
+# Translation of Themes - Hestia in Chinese (China)
+# This file is distributed under the same license as the Themes - Hestia package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-09-17 08:53:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Themes - Hestia\n"
+
+#. #-#-#-#-#  hestia.pot (Hestia 2.0.7)  #-#-#-#-#
+#. Description of the plugin/theme
+#: inc/core/class-hestia-admin.php:37
+msgid "Hestia is a modern WordPress theme for professionals. It fits creative business, small businesses (restaurants, wedding planners, sport/medical shops), startups, corporate businesses, online agencies and firms, portfolios, ecommerce (WooCommerce), and freelancers. It has a multipurpose one-page design, widgetized footer, blog/news page and a clean look, is compatible with: Flat Parallax Slider, Photo Gallery, Travel Map and Elementor Page Builder . The theme is responsive, WPML, Retina ready, SEO friendly, and uses Material Kit for design."
+msgstr "Hestia是给专业人士用的现代化 WordPress 主题。 该主题适合创意业务，小型企业（餐馆，婚礼策划人员，运动/医疗店），创业公司，企业业务，在线代理与公司，文件夹，电子商务（WooCommerce）和自由职业者。 该主题具有多用途单页设计，页脚里使用小工具功能，博客/新闻页面和干净的外观，和各种插件兼容：Flat Parallax Slider, Photo Gallery, Travel Map and Elementor Page Builder。 主题拥有了响应式设计，兼容 WPML 与 Retina，SEO优化，并使用 Material Kit 进行设计。"
+
+#. translators: %1$s is Theme Name, %2$s is WordPress
+#: inc/views/main/class-hestia-footer.php:128
+msgid "%1$s | Developed by %2$s"
+msgstr "%1$s |由%2$s开发"
+
+#. translators: %s is Feature name
+#. translators: %s Feature name
+#: inc/customizer/general/class-hestia-upsell-manager.php:163
+#: inc/customizer/general/class-hestia-upsell-manager.php:192
+msgid "More Options Available for %s in the PRO version."
+msgstr "更多选项适用于PRO版本中的％s。"
+
+#: inc/customizer/general/class-hestia-general-controls.php:170
+msgid "Disable"
+msgstr "停用"
+
+#: inc/customizer/general/class-hestia-buttons-style-controls.php:108
+msgid "Border radius"
+msgstr "边框半径"
+
+#: inc/customizer/general/class-hestia-buttons-style-controls.php:83
+msgid "Padding (px)"
+msgstr "填充 (px)"
+
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:223
+msgid "Infinite Scroll"
+msgstr "无限滚动"
+
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:222
+msgid "Number"
+msgstr "数字"
+
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:217
+msgid "Post Pagination"
+msgstr "文章分页"
+
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:201
+msgid "Excerpt length"
+msgstr "摘要长度"
+
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:178
+msgid "Excerpt"
+msgstr "摘要"
+
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:176
+msgid "Blog Post Content"
+msgstr "博客文章内容"
+
+#: inc/core/class-hestia-admin.php:271
+msgid "WPForms allow you to create beautiful contact forms, subscription forms, payment forms, and other type of forms for your site in minutes, not hours!"
+msgstr "WPForms允许您在几分钟内，而不是几小时，创建漂亮的联系表单，订阅表单，付款表单和其他类型的表单！"
+
+#: inc/content-import/class-hestia-import-zerif-frontpage.php:90
+msgid "Import Zerif Front page as template "
+msgstr "导入Zerif首页作为模板"
+
+#: inc/content-import/class-hestia-import-zerif-frontpage.php:86
+msgid "But first, we need to install and activate Elementor."
+msgstr "但首先，我们需要安装并激活Elementor。"
+
+#: inc/content-import/class-hestia-import-zerif-frontpage.php:83
+msgid "We can help you convert your Zerif front page into an Elementor template, so you can use it again."
+msgstr "我们可以帮助您将Zerif首页转换为Elementor模板，以便您可以再次使用它。"
+
+#: inc/content-import/class-hestia-import-zerif-frontpage.php:82
+msgid "We detected that you previously had Zerif installed."
+msgstr "我们检测到您之前安装了Zerif。"
+
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:145
+msgid "Content was successfully imported. Enjoy your new site!"
+msgstr "内容已成功导入。享受您的新站点！"
+
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:144
+msgid "We recommend you backup your website content before attempting a full site import."
+msgstr "我们建议您在尝试完整站点导入之前备份您的站点内容。"
+
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:142
+msgid "Importing Widgets"
+msgstr "导入小工具"
+
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:141
+msgid "Setting Up Customizer"
+msgstr "设置自定器"
+
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:140
+msgid "Importing Content"
+msgstr "导入内容"
+
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:139
+msgid "Installing Plugins"
+msgstr "安装插件…"
+
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:137
+msgid "Widgets"
+msgstr "小工具"
+
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:134
+msgid "This process will set up your website, install required plugins, import demo content (pages, posts, media) and set up the customizer options."
+msgstr "此过程将设置您的站点，安装所需的插件，导入演示内容（页面，文章，媒体）并设置自定器选项。"
+
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:132
+msgid "Not right now."
+msgstr "不是现在。"
+
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:131
+msgid "General"
+msgstr "常规"
+
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:130
+msgid "Plugins"
+msgstr "插件"
+
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:129
+msgid "Advanced Options"
+msgstr "高级选项"
+
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:128
+msgid "Note"
+msgstr "备注"
+
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:127
+msgid "Back to Sites Library"
+msgstr "返回站点库"
+
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:126
+msgid "View Website"
+msgstr "查看网站"
+
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:125
+msgid "Loading"
+msgstr "载入中..."
+
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:124
+msgid "Cancel"
+msgstr "取消"
+
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:122
+msgid "Import"
+msgstr "导入"
+
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:121
+msgid "Preview"
+msgstr "预览"
+
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:47
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:70
+msgid "Sites Library"
+msgstr "站点库"
+
+#: inc/customizer/controls/ui/subscribe-info/class-hestia-subscribe-info.php:134
+msgid "Here is where you must add the \"SendinBlue Newsletter\" widget."
+msgstr "您必须在此处添加“SendinBlue Newsletter”小工具。"
+
+#. translators: %s Path in plugin
+#: inc/customizer/controls/ui/subscribe-info/class-hestia-subscribe-info.php:125
+msgid "SendinBlue > Home"
+msgstr "SendinBlue&gt;主页"
+
+#: inc/customizer/controls/ui/subscribe-info/class-hestia-subscribe-info.php:113
+msgid "Here is where you must add the \"SendinBlue Newsletter\" widget. But first, you will need to install SendinBlue plugin."
+msgstr "您必须在此处添加“SendinBlue Newsletter”小工具。但首先，您需要安装SendinBlue插件。"
+
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:98
+msgid "Parallax"
+msgstr "视差"
+
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:317
+msgid "Second Layer"
+msgstr "第二层"
+
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:302
+msgid "First Layer"
+msgstr "第一层"
+
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:345
+msgid "Extra"
+msgstr "而外"
+
+#. translators: %1$s is Time since, %2$s is Link to post
+#: inc/customizer/general/class-hestia-upsell-manager.php:169
+#: inc/customizer/general/class-hestia-upsell-manager.php:198
+#: inc/views/blog/class-hestia-blog-post-layout.php:326
+#: inc/views/blog/class-hestia-featured-posts.php:141
+#: inc/views/class-hestia-tweaks.php:71
+msgid "Read more"
+msgstr "阅读更多"
+
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:50
+msgid "Featured Posts"
+msgstr "精选文章"
+
+#: functions.php:40
+msgid "Hey, we've noticed that you're running an outdated version of PHP which is no longer supported. Make sure your site is fast and secure, by upgrading PHP to the latest version."
+msgstr "嘿, 我们注意到您正在运行一个过时的，不再受支持的 PHP 版本。通过升级 PHP 到最新版本, 才能确保您的站点快速安全。"
+
+#: inc/customizer/general/class-hestia-header-controls.php:254
+msgid "Header Settings"
+msgstr "标题设置"
+
+#: inc/customizer/general/class-hestia-color-controls.php:43
+msgid "Header Gradient"
+msgstr "页眉倾斜度"
+
+#. translators: Upsell to get the pro version
+#. translators: %s Required action
+#: inc/admin/class-hestia-admin-notices-manager.php:39
+#: inc/customizer/general/class-hestia-upsell-manager.php:119
+msgid "Hestia front-page is not multi-language compatible, for this feature %s."
+msgstr "由于这个特性 %s，Hestia 首页不是多语言兼容的。"
+
+#: inc/customizer/general/class-hestia-header-controls.php:39
+msgid "Enable Header Image Sitewide"
+msgstr "在整站范围内启用标题图片"
+
+#: inc/customizer/class-hestia-customizer-main.php:81
+msgid "Header Background"
+msgstr "标题背景"
+
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:135
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:179
+#: inc/customizer/general/class-hestia-typography-controls.php:310
+#: inc/customizer/general/class-hestia-typography-controls.php:439
+msgid "Content"
+msgstr "内容"
+
+#: inc/customizer/general/class-hestia-typography-controls.php:201
+msgid "Posts & Pages"
+msgstr "文章及页面"
+
+#: inc/customizer/general/class-hestia-header-controls.php:109
+msgid "Enable Search in Menu"
+msgstr "在菜单中启用搜索"
+
+#: inc/customizer/general/class-hestia-general-controls.php:131
+msgid "Enable Scroll to Top"
+msgstr "启用滚动置顶"
+
+#: inc/customizer/controls/custom-controls/font-selector/class-hestia-font-selector.php:52
+msgctxt "label"
+msgid "Search for:"
+msgstr "搜索："
+
+#: inc/core/class-hestia-public.php:202
+msgid "Footer Four"
+msgstr "脚注 4"
+
+#. Template Name of the plugin/theme
+msgid "Page with Sidebar"
+msgstr "带有侧边栏的页面"
+
+#: inc/core/class-hestia-public.php:294
+#: inc/customizer/general/class-hestia-header-controls.php:71
+msgid "Menu"
+msgstr "菜单"
+
+#. translators: 1 - link to customizer setting. 2 - 'customizer'
+#: inc/views/front-page/class-hestia-blog-section.php:59
+msgid "Change this subtitle in the %s."
+msgstr "在%s中更改此字幕。"
+
+#. translators: 1 - link to customizer setting. 2 - 'customizer'
+#: inc/views/front-page/class-hestia-big-title-section.php:179
+#: inc/views/front-page/class-hestia-big-title-section.php:186
+msgid "Change in the %s"
+msgstr "在%s中更改"
+
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:253
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:100
+#: inc/customizer/general/class-hestia-header-controls.php:124
+#: inc/customizer/general/class-hestia-header-controls.php:172
+msgid "Layout"
+msgstr "布局"
+
+#: inc/views/class-hestia-tweaks.php:166 inc/views/class-hestia-tweaks.php:170
+#: inc/views/class-hestia-tweaks.php:174
+msgid "Second"
+msgstr "秒"
+
+#: inc/core/class-hestia-public.php:187 inc/core/class-hestia-public.php:294
+#: inc/customizer/general/class-hestia-header-controls.php:71
+#: inc/customizer/general/class-hestia-header-controls.php:310
+msgid "Very Top Bar"
+msgstr "顶条"
+
+#: inc/core/class-hestia-public.php:188
+#: inc/customizer/general/class-hestia-header-controls.php:299
+msgid "Navigation"
+msgstr "导航"
+
+#: inc/customizer/general/class-hestia-header-controls.php:25
+msgid "Header Options"
+msgstr "页头选项"
+
+#: inc/customizer/general/class-hestia-general-controls.php:110
+msgid "Enable Sharing Icons"
+msgstr "启用共享图标"
+
+#: inc/customizer/general/class-hestia-typography-controls.php:77
+msgid "font size"
+msgstr "字体大小"
+
+#: inc/customizer/general/class-hestia-typography-controls.php:146
+msgid "Body"
+msgstr "主体"
+
+#: inc/customizer/general/class-hestia-typography-controls.php:73
+#: inc/customizer/general/class-hestia-typography-controls.php:129
+#: inc/customizer/general/class-hestia-typography-controls.php:146
+msgid "font family"
+msgstr "字体源"
+
+#: inc/customizer/general/class-hestia-typography-controls.php:129
+#: inc/customizer/general/class-hestia-typography-controls.php:278
+msgid "Headings"
+msgstr "标题"
+
+#: inc/customizer/general/class-hestia-typography-controls.php:173
+msgid "Font Subsets"
+msgstr "字体子项"
+
+#: inc/customizer/general/class-hestia-typography-controls.php:50
+#: inc/customizer/general/class-hestia-upsell-manager.php:164
+msgid "Typography"
+msgstr "排版"
+
+#: inc/customizer/controls/custom-controls/font-selector/class-hestia-font-selector.php:59
+msgid "Google Fonts"
+msgstr "Google字体"
+
+#: inc/customizer/controls/custom-controls/font-selector/class-hestia-font-selector.php:58
+msgid "Standard Fonts"
+msgstr "标准字体"
+
+#: inc/customizer/controls/custom-controls/font-selector/class-hestia-font-selector.php:47
+#: inc/customizer/controls/custom-controls/font-selector/class-hestia-font-selector.php:56
+msgid "Default"
+msgstr "默认"
+
+#: inc/core/class-hestia-admin.php:183
+msgid "Display a frontpage section wherever you like by adding its shortcode in page or post content."
+msgstr "通过在发布内容里随时随地添加短代码显示首页区域。"
+
+#: inc/core/class-hestia-admin.php:182
+msgid "Shortcodes for each section"
+msgstr "每部分的短代码"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:36
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s 条评论"
+
+#. translators: %s: post title
+#: comments.php:32
+msgctxt "comments title"
+msgid "One comment"
+msgstr "一条评论"
+
+#: inc/customizer/controls/ui/helper-plugin-install/class-hestia-plugin-install-helper.php:172
+msgid "Activating "
+msgstr "激活中"
+
+#: inc/customizer/controls/ui/helper-plugin-install/class-hestia-plugin-install-helper.php:106
+msgid "Install and activate"
+msgstr "安装并激活"
+
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:136
+#: inc/views/front-page/class-hestia-big-title-section.php:179
+#: inc/views/front-page/class-hestia-big-title-section.php:186
+#: inc/views/front-page/class-hestia-blog-section.php:59
+msgid "Customizer"
+msgstr "定制器"
+
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:402
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:403
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:404
+#: inc/views/front-page/class-hestia-big-title-section.php:192
+msgid "Change in the Customizer"
+msgstr "在定制器中更改"
+
+#: inc/core/class-hestia-admin.php:177
+#: inc/customizer/general/class-hestia-upsell-manager.php:72
+msgid "The ability to reorganize your Frontpage Sections more easily and quickly."
+msgstr "能够更轻松，更快地重新组织您的首页区域。"
+
+#: inc/core/class-hestia-admin.php:130 inc/core/class-hestia-admin.php:132
+msgid "Go to the Customizer"
+msgstr "前往定制器"
+
+#: inc/customizer/general/class-hestia-upsell-manager.php:71
+msgid "Drag and drop panels to change the order of sections."
+msgstr "拖放面板以更改区域的顺序。"
+
+#: inc/customizer/general/class-hestia-upsell-manager.php:107
+msgid "The ability to reorganize your Frontpage sections more easily and quickly."
+msgstr "能够更轻松，更快地重新组织您的首页区域。"
+
+#: inc/customizer/controls/ui/class-hestia-control-upsell.php:72
+#: inc/customizer/controls/ui/class-hestia-section-upsell.php:84
+msgid "PRO"
+msgstr "PRO"
+
+#. Template Name of the plugin/theme
+msgid "Page Builder Full Width"
+msgstr "页面生成器用全宽"
+
+#. Template Name of the plugin/theme
+msgid "Page Builder Blank"
+msgstr "页面生成器用空白"
+
+#: inc/helpers/layout-functions.php:279
+#: inc/views/main/class-hestia-top-bar.php:68
+msgid "This sidebar is active but empty. In order to use this layout, please add widgets in the sidebar"
+msgstr "此边栏处于活动状态但为空。 为了使用这个布局，请在边栏中添加小工具。"
+
+#: inc/customizer/general/class-hestia-general-controls.php:88
+msgid "Blog Sidebar Layout"
+msgstr "博客侧边栏布局"
+
+#: inc/admin/page-settings/class-hestia-page-settings.php:46
+#: inc/customizer/general/class-hestia-general-controls.php:196
+msgid "Right Sidebar"
+msgstr "右边栏"
+
+#: inc/admin/page-settings/class-hestia-page-settings.php:42
+#: inc/customizer/general/class-hestia-general-controls.php:192
+msgid "Left Sidebar"
+msgstr "左边栏"
+
+#: inc/admin/page-settings/class-hestia-page-settings.php:38
+#: inc/customizer/general/class-hestia-general-controls.php:188
+msgid "Full Width"
+msgstr "全宽"
+
+#: inc/customizer/general/class-hestia-general-controls.php:65
+msgid "Page Sidebar Layout"
+msgstr "页面侧边栏布局"
+
+#: inc/core/class-hestia-public.php:186
+msgid "WooCommerce Sidebar"
+msgstr "WooCommerce 边栏"
+
+#. Template Name of the plugin/theme
+msgid "Fullwidth Template"
+msgstr "全宽模板"
+
+#: inc/admin/about-page/class-hestia-about-page.php:597
+msgid "Activating"
+msgstr "激活中"
+
+#: inc/views/blog/class-hestia-additional-views.php:117
+msgid "Tags: "
+msgstr "标签："
+
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:80
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:156
+#: inc/views/blog/class-hestia-additional-views.php:110
+msgid "Categories:"
+msgstr "分类："
+
+#: template-parts/content-none.php:39
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "我们可能无法找到您需要的内容。或许搜索功能可以帮到您。"
+
+#: template-parts/content-none.php:34
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "抱歉，没有符合您搜索条件的结果。请换其它关键词再试。"
+
+#. translators: %1$s is Link to new post, %2$s is Get started here
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:133
+#: template-parts/content-none.php:25
+msgid "Get started here"
+msgstr "从这里开始"
+
+#. translators: %s is Link to new post
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? %s."
+msgstr "准备好发布第一篇文章了？%s。"
+
+#. translators: %1$s is Time since post, %2$s is author Close tag
+#: inc/views/blog/class-hestia-blog-post-layout.php:300
+msgid "%1$s ago %2$s"
+msgstr "%1$s 前 %2$s"
+
+#. translators: %1$s is Author name wrapped, %2$s is Time
+#: inc/views/blog/class-hestia-blog-post-layout.php:291
+msgid "By %1$s, %2$s"
+msgstr "由%1$s，%2$s"
+
+#. translators: search result
+#: inc/views/blog/class-hestia-header-layout-manager.php:317
+msgid "Search Results for: %s"
+msgstr "%s的搜索结果"
+
+#. translators: %d is number of items
+#: inc/compatibility/woocommerce/functions.php:69
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d个商品"
+
+#: inc/compatibility/woocommerce/functions.php:65
+msgid "View your shopping cart"
+msgstr "查看您的购物车"
+
+#: inc/views/blog/class-hestia-additional-views.php:89
+msgid "Share on Google+"
+msgstr "分享到 Google+"
+
+#: inc/views/blog/class-hestia-additional-views.php:82
+msgid "Share on Twitter"
+msgstr "分享至微博"
+
+#: inc/views/blog/class-hestia-additional-views.php:75
+msgid "Share on Facebook"
+msgstr "分享到 Facebook"
+
+#: inc/views/blog/class-hestia-additional-views.php:214
+msgid "Related Posts"
+msgstr "相关文章"
+
+#: inc/helpers/layout-functions.php:132
+msgid "What's on your mind?"
+msgstr "在想些什么？"
+
+#: inc/views/class-hestia-tweaks.php:137
+msgid "Website"
+msgstr "网站"
+
+#: inc/views/class-hestia-tweaks.php:136
+msgid "Email"
+msgstr "电子邮件"
+
+#: inc/views/class-hestia-tweaks.php:135
+msgid "Name"
+msgstr "名称"
+
+#. translators: %s is Link to login
+#: inc/helpers/layout-functions.php:123
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "要发表评论，您必须先<a href=\"%s\">登录</a>。"
+
+#: inc/helpers/layout-functions.php:186
+msgid "Reply"
+msgstr "回复"
+
+#: inc/customizer/controls/custom-controls/customizer-page-editor/class-hestia-page-editor.php:81
+#: inc/helpers/layout-functions.php:175
+msgid "(Edit)"
+msgstr "(编辑)"
+
+#. translators: %1$s is Date, %2$s is Time
+#: inc/helpers/layout-functions.php:171
+msgid "&#183; %1$s at %2$s"
+msgstr "&#183; %1$s %2$s"
+
+#: inc/helpers/layout-functions.php:25
+msgid "Previous page"
+msgstr "上一页"
+
+#: inc/helpers/layout-functions.php:24
+msgid "Next page"
+msgstr "下一页"
+
+#. translators: %s is Category name
+#: inc/helpers/layout-functions.php:675
+msgid "View all posts in %s"
+msgstr "查看%s中的全部文章"
+
+#: inc/customizer/general/class-hestia-buttons-style-controls.php:46
+#: inc/views/class-hestia-tweaks.php:162 inc/views/class-hestia-tweaks.php:166
+msgid "Button"
+msgstr "按钮"
+
+#: inc/core/class-hestia-public.php:508
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+msgstr "范例文字，请取代此段落文字。此段落文字为范例文字内容，请务必取代。范例文字，请取代此段落文字。"
+
+#: inc/core/class-hestia-public.php:507
+msgid "Lorem Ipsum"
+msgstr "范例文字"
+
+#. translators: 1 - link to customizer setting. 2 - 'customizer'
+#: inc/views/front-page/class-hestia-contact-section.php:86
+#: inc/views/front-page/class-hestia-shop-section.php:68
+#: inc/views/front-page/class-hestia-subscribe-section.php:65
+msgid "Change this subtitle in %s."
+msgstr "在%s中更改此字幕。"
+
+#: inc/views/front-page/class-hestia-contact-section.php:86
+#: inc/views/front-page/class-hestia-shop-section.php:68
+#: inc/views/front-page/class-hestia-subscribe-section.php:65
+msgid "customizer"
+msgstr "定制器"
+
+#: inc/customizer/general/class-hestia-upsell-manager.php:43
+msgid "View PRO Features"
+msgstr "查看 PRO 功能"
+
+#: inc/customizer/front-page/class-hestia-subscribe-controls.php:129
+#: inc/views/front-page/class-hestia-subscribe-section.php:69
+msgid "Subscribe to our Newsletter"
+msgstr "订阅我们的通讯"
+
+#: inc/core/class-hestia-public.php:185
+#: inc/customizer/front-page/class-hestia-subscribe-controls.php:21
+msgid "Subscribe"
+msgstr "订阅"
+
+#: inc/customizer/front-page/class-hestia-shop-controls.php:83
+#: inc/views/front-page/class-hestia-shop-section.php:72
+msgid "Products"
+msgstr "产品"
+
+#: inc/customizer/front-page/class-hestia-shop-controls.php:24
+msgid "Shop"
+msgstr "店铺"
+
+#: inc/customizer/general/class-hestia-general-controls.php:154
+msgid "If enabled, the theme will use a boxed layout."
+msgstr "如果启用，该主题会使用盒状布局。"
+
+#: inc/customizer/general/class-hestia-general-controls.php:153
+msgid "Boxed Layout"
+msgstr "盒状布局"
+
+#: inc/admin/page-settings/class-hestia-page-settings.php:145
+#: inc/customizer/front-page/class-hestia-contact-controls.php:53
+#: inc/customizer/front-page/class-hestia-subscribe-controls.php:52
+#: inc/customizer/general/class-hestia-general-controls.php:44
+msgid "General Settings"
+msgstr "常规设置"
+
+#: inc/customizer/front-page/class-hestia-contact-controls.php:57
+#: inc/customizer/front-page/class-hestia-contact-controls.php:159
+msgid "Contact Content"
+msgstr "联系内容"
+
+#: inc/customizer/controls/ui/class-hestia-contact-info.php:34
+#: inc/customizer/front-page/class-hestia-subscribe-controls.php:111
+msgid "Instructions"
+msgstr "说明"
+
+#: inc/customizer/front-page/class-hestia-contact-controls.php:116
+msgid "Form Title"
+msgstr "表格标题"
+
+#: inc/customizer/front-page/class-hestia-contact-controls.php:111
+#: inc/helpers/layout-functions.php:715
+#: inc/views/front-page/class-hestia-contact-section.php:91
+msgid "Contact Us"
+msgstr "联系我们"
+
+#: inc/customizer/front-page/class-hestia-contact-controls.php:221
+#: inc/views/front-page/class-hestia-contact-section.php:90
+msgid "Get in Touch"
+msgstr "取得联系"
+
+#: inc/customizer/front-page/class-hestia-contact-controls.php:94
+#: inc/customizer/front-page/class-hestia-subscribe-controls.php:91
+msgid "Background Image"
+msgstr "背景图像"
+
+#: inc/customizer/front-page/class-hestia-contact-controls.php:21
+msgid "Contact"
+msgstr "联系"
+
+#: inc/customizer/general/class-hestia-color-controls.php:25
+msgid "Accent Color"
+msgstr "强调颜色"
+
+#: inc/customizer/front-page/class-hestia-blog-section-controls.php:46
+#: inc/customizer/front-page/class-hestia-shop-controls.php:52
+msgid "Number of Items"
+msgstr "商品数目"
+
+#: inc/core/abstract/class-hestia-front-page-section-controls-abstract.php:120
+#: inc/customizer/general/class-hestia-typography-controls.php:408
+msgid "Section Subtitle"
+msgstr "区域字幕"
+
+#: inc/core/abstract/class-hestia-front-page-section-controls-abstract.php:106
+#: inc/customizer/general/class-hestia-typography-controls.php:377
+msgid "Section Title"
+msgstr "区域标题"
+
+#: inc/customizer/front-page/class-hestia-blog-section-controls.php:21
+#: inc/customizer/front-page/class-hestia-blog-section-controls.php:79
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:100
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:156
+#: inc/views/front-page/class-hestia-blog-section.php:63
+msgid "Blog"
+msgstr "博客"
+
+#: inc/customizer/front-page/class-hestia-blog-section-controls.php:80
+#: inc/customizer/front-page/class-hestia-contact-controls.php:222
+#: inc/customizer/front-page/class-hestia-shop-controls.php:84
+#: inc/customizer/front-page/class-hestia-subscribe-controls.php:130
+msgid "Change this subtitle in the Customizer"
+msgstr "在定制器中更改此字幕。"
+
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:221
+msgid "Button URL"
+msgstr "按钮链接"
+
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:206
+#: inc/views/class-hestia-tweaks.php:170
+msgid "Button text"
+msgstr "按钮文字"
+
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:95
+#: inc/customizer/general/class-hestia-upsell-manager.php:193
+msgid "Big Title Background"
+msgstr "大标题背景"
+
+#: inc/core/class-hestia-public.php:189
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:22
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:130
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:341
+#: inc/customizer/general/class-hestia-typography-controls.php:347
+msgid "Big Title Section"
+msgstr "大标题区域"
+
+#: inc/customizer/front-page/class-hestia-about-controls.php:80
+#: inc/customizer/front-page/class-hestia-about-controls.php:110
+msgid "About Content"
+msgstr "关于内容"
+
+#: inc/compatibility/page-builder/class-hestia-beaver-builder-compatibility.php:41
+#: inc/compatibility/page-builder/class-hestia-elementor-compatibility.php:122
+#: inc/core/abstract/class-hestia-front-page-section-controls-abstract.php:92
+#: inc/customizer/front-page/class-hestia-about-controls.php:55
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:59
+#: inc/customizer/general/class-hestia-header-controls.php:55
+msgid "Disable section"
+msgstr "禁用区域"
+
+#: inc/customizer/front-page/class-hestia-about-controls.php:31
+msgid "About"
+msgstr "关于"
+
+#: inc/customizer/class-hestia-customizer-notices.php:158
+msgid "Recommended Plugins"
+msgstr "插件推荐"
+
+#. translators: Orbit Fox Companion
+#: inc/customizer/class-hestia-customizer-notices.php:163
+msgid "If you want to take full advantage of the options this theme has to offer, please install and activate %s."
+msgstr "如果您想充分利用本主题所提供的选项，请安装并激活%s。"
+
+#: inc/core/class-hestia-admin.php:264
+msgid "It is highly recommended that you install the companion plugin to have access to the Frontpage features, Team and Testimonials sections."
+msgstr "强烈建议您安装随附的插件以使用首页功能，团队和见证区域。"
+
+#: inc/core/class-hestia-admin.php:225 inc/core/class-hestia-admin.php:260
+#: inc/customizer/controls/ui/helper-plugin-install/class-hestia-plugin-install-helper.php:125
+msgid "Deactivate"
+msgstr "停用"
+
+#: inc/core/class-hestia-admin.php:224 inc/core/class-hestia-admin.php:259
+#: inc/customizer/controls/ui/helper-plugin-install/class-hestia-plugin-install-helper.php:110
+#: inc/customizer/controls/ui/helper-plugin-install/class-hestia-plugin-install-helper.php:130
+msgid "Activate"
+msgstr "激活"
+
+#: inc/core/class-hestia-admin.php:223 inc/core/class-hestia-admin.php:258
+msgid "Install and Activate"
+msgstr "安装并激活"
+
+#: inc/core/class-hestia-admin.php:222
+msgid "Version: "
+msgstr "版本："
+
+#: inc/core/class-hestia-admin.php:221
+msgid "Already activated"
+msgstr "已激活"
+
+#: inc/core/class-hestia-admin.php:213
+#: inc/customizer/general/class-hestia-upsell-manager.php:73
+msgid "24/7 HelpDesk Professional Support"
+msgstr "24／7 专业支持服务"
+
+#: inc/core/class-hestia-admin.php:212
+#: inc/customizer/general/class-hestia-upsell-manager.php:64
+msgid "Quality Support"
+msgstr "质量支持"
+
+#: inc/core/class-hestia-admin.php:195
+#: inc/customizer/general/class-hestia-upsell-manager.php:68
+msgid "Change colors for the header overlay, header text and navbar."
+msgstr "更改页头叠加层，页头文字和导航条的颜色。"
+
+#: inc/core/class-hestia-admin.php:194
+#: inc/customizer/general/class-hestia-upsell-manager.php:60
+msgid "Fully Customizable Colors"
+msgstr "完全可定制颜色"
+
+#: inc/core/class-hestia-admin.php:189
+#: inc/customizer/general/class-hestia-upsell-manager.php:67
+msgid "You will be able to add more content to your site header with an awesome slider."
+msgstr "您将能够通过一个很棒幻灯为您的站点页头添加更多内容。"
+
+#: inc/core/class-hestia-admin.php:188
+#: inc/customizer/general/class-hestia-upsell-manager.php:59
+msgid "Header Slider"
+msgstr "页头幻灯"
+
+#: inc/core/class-hestia-admin.php:171
+msgid "You can use any background image you want."
+msgstr "您可以使用任何您想要的背景图像。"
+
+#: inc/core/class-hestia-admin.php:170
+msgid "Background image"
+msgstr "背景图像"
+
+#: inc/core/class-hestia-admin.php:165
+msgid "Big title, Features, About, Team, Testimonials, Subscribe, Blog, Contact"
+msgstr "大标题，功能，关于，团队，见证，订阅，博客，联系"
+
+#: inc/core/class-hestia-admin.php:159
+msgid "Ready for e-commerce. You can build an online store here."
+msgstr "以电子商务而准备。您可以在这建立一个网站商铺。"
+
+#: inc/core/class-hestia-admin.php:158
+msgid "WooCommerce Compatible"
+msgstr "兼容 WooCommerce"
+
+#: inc/core/class-hestia-admin.php:153
+msgid "Responsive layout. Works on every device."
+msgstr "响应布局。 适用于每个设备。"
+
+#: inc/core/class-hestia-admin.php:152
+msgid "Mobile friendly"
+msgstr "手机友好"
+
+#. translators: s - theme name
+#: inc/core/class-hestia-admin.php:145
+msgid "Get %s now!"
+msgstr "现在购买%s吧！"
+
+#: inc/core/class-hestia-admin.php:131
+msgid "Using the WordPress Customizer you can easily customize every aspect of the theme."
+msgstr "通过 WordPress 定制器的应用，您能轻易地定制该主题的每个方面。"
+
+#: inc/core/class-hestia-admin.php:113
+msgid "We have compiled a list of steps for you to take so we can ensure that the experience you have using one of our products is very easy to follow."
+msgstr "我们已经编制了一系列步骤确保您使用我们的产品的体验非常得轻松。"
+
+#: inc/core/class-hestia-admin.php:112 inc/core/class-hestia-admin.php:114
+msgid "Recommended actions"
+msgstr "推荐操作"
+
+#: inc/core/class-hestia-admin.php:102
+msgid "In the documentation below you will find an easy way to build a great looking landing page using a drag-and-drop content builder plugin."
+msgstr "在以下的文档中，您将找到一种使用拖放内容构建器插件构建出色的登陆页的简单方法。"
+
+#: inc/core/class-hestia-admin.php:100
+msgid "Build a landing page with a drag-and-drop content builder"
+msgstr "使用拖放内容构建器构建登陆页"
+
+#: inc/core/class-hestia-admin.php:93
+msgid "If you find yourself in a situation where everything on your site is running very slowly, you might consider having a look at the documentation below where you will find the most common issues causing this and possible solutions for each of the issues."
+msgstr "如果您发现您的站点加载速度非常缓慢，您可以考虑看看以下文档，参考最常见的问题以及有可能的解决方案。"
+
+#: inc/core/class-hestia-admin.php:91
+msgid "Speed up your site"
+msgstr "加速您的站点"
+
+#: inc/core/class-hestia-admin.php:85 inc/core/class-hestia-admin.php:94
+#: inc/core/class-hestia-admin.php:103
+msgid "View how to do this"
+msgstr "请参观资料"
+
+#: inc/core/class-hestia-admin.php:84
+msgid "If you want to make changes to the theme's files, those changes are likely to be overwritten when you next update the theme. In order to prevent that from happening, you need to create a child theme. For this, please follow the documentation below."
+msgstr "如果您更改主题的有关文件，这些更改可能会在更新主题时被覆盖。为了避免这种情况发生，您需要创建一个子主题。 为此，请按照以下文档。"
+
+#: inc/core/class-hestia-admin.php:82
+msgid "Create a child theme"
+msgstr "创建新站点"
+
+#: inc/core/class-hestia-admin.php:75
+msgid "Want to get the gist on the latest theme changes? Just consult our changelog below to get a taste of the recent fixes and features implemented."
+msgstr "想要知道最新主题变化的要点？ 请参阅我们的下面的修订历史，以了解最近修复和功能的实现。"
+
+#: inc/core/class-hestia-admin.php:67 inc/core/class-hestia-admin.php:121
+#: inc/customizer/controls/ui/subscribe-info/class-hestia-subscribe-info.php:137
+msgid "Read full documentation"
+msgstr "参考完整的文档"
+
+#: inc/core/class-hestia-admin.php:66 inc/core/class-hestia-admin.php:122
+#: inc/core/class-hestia-public.php:445
+msgid "Need more details? Please check our full documentation for detailed information on how to use Hestia."
+msgstr "需要更多的细节？ 请参考我们的完整文档，了解有关如何使用Hestia的详细信息。"
+
+#: inc/core/class-hestia-admin.php:57
+msgid "We want to make sure you have the best experience using Hestia, and that is why we have gathered all the necessary information here for you. We hope you will enjoy using Hestia as much as we enjoy creating great products."
+msgstr "我们希望您使用 Hestia 拥有最好的体验，这就是为什么我们为您收集所有必要的资料。 希望您喜欢使用 Hestia，因为我们喜欢创造出优质的产品。"
+
+#: inc/core/class-hestia-admin.php:55 inc/core/class-hestia-admin.php:58
+msgid "Contact Support"
+msgstr "联系支持"
+
+#: inc/core/class-hestia-admin.php:50
+msgid "Free vs PRO"
+msgstr "免费 vs PRO"
+
+#: inc/core/class-hestia-admin.php:49 inc/core/class-hestia-admin.php:73
+#: inc/core/class-hestia-admin.php:76
+msgid "Changelog"
+msgstr "修订历史"
+
+#: inc/core/class-hestia-admin.php:48
+msgid "Support"
+msgstr "支持"
+
+#: inc/core/class-hestia-admin.php:47
+msgid "Useful Plugins"
+msgstr "有用的插件"
+
+#: inc/core/class-hestia-admin.php:46
+msgid "Recommended Actions"
+msgstr "推荐操作"
+
+#: inc/core/class-hestia-admin.php:45
+msgid "Getting Started"
+msgstr "开始设置"
+
+#. translators: s - theme name
+#: inc/core/class-hestia-admin.php:35
+msgid "Welcome to %s! - Version "
+msgstr "欢迎使用 %s！- 版本"
+
+#: inc/core/class-hestia-admin.php:30 inc/core/class-hestia-admin.php:32
+#: inc/core/class-hestia-public.php:445
+msgid "About Hestia"
+msgstr "关于 Hestia"
+
+#: inc/customizer/class-hestia-customizer-main.php:67
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:31
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:137
+msgid "Blog Settings"
+msgstr "博客设置"
+
+#: inc/core/class-hestia-admin.php:164
+#: inc/customizer/class-hestia-customizer-main.php:56
+#: inc/customizer/general/class-hestia-general-controls.php:170
+#: inc/customizer/general/class-hestia-typography-controls.php:216
+msgid "Frontpage Sections"
+msgstr "首页区域"
+
+#: inc/customizer/class-hestia-customizer-main.php:46
+msgid "Appearance Settings"
+msgstr "外观设置"
+
+#: inc/core/class-hestia-admin.php:207
+#: inc/customizer/general/class-hestia-upsell-manager.php:70
+#: inc/customizer/general/class-hestia-upsell-manager.php:106
+msgid "A fully customizable pricing plans section."
+msgstr "完全可定制的定价方案区域。"
+
+#: inc/core/class-hestia-admin.php:201
+#: inc/customizer/general/class-hestia-upsell-manager.php:69
+#: inc/customizer/general/class-hestia-upsell-manager.php:105
+msgid "Portfolio section with two possible layouts."
+msgstr "文件夹区域与两个布局。"
+
+#: inc/admin/class-hestia-admin-notices-manager.php:39
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:123
+#: inc/customizer/general/class-hestia-upsell-manager.php:76
+#: inc/customizer/general/class-hestia-upsell-manager.php:119
+#: inc/customizer/general/class-hestia-upsell-manager.php:122
+msgid "Get the PRO version!"
+msgstr "购买 PRO 版本！"
+
+#: inc/core/class-hestia-admin.php:176
+#: inc/customizer/general/class-hestia-upsell-manager.php:63
+#: inc/customizer/general/class-hestia-upsell-manager.php:112
+msgid "Section Reordering"
+msgstr "重新排序区域"
+
+#: inc/core/class-hestia-admin.php:206
+#: inc/customizer/general/class-hestia-upsell-manager.php:62
+#: inc/customizer/general/class-hestia-upsell-manager.php:111
+msgid "Pricing Plans Section"
+msgstr "定价方案区域"
+
+#: inc/core/class-hestia-admin.php:200
+#: inc/customizer/controls/ui/helper-plugin-install/class-hestia-plugin-install-helper.php:130
+#: inc/customizer/general/class-hestia-upsell-manager.php:61
+#: inc/customizer/general/class-hestia-upsell-manager.php:110
+msgid "Jetpack Portfolio"
+msgstr "Jetpack 文件夹"
+
+#: inc/core/class-hestia-admin.php:64 inc/core/class-hestia-admin.php:123
+#: inc/customizer/class-hestia-customizer-notices.php:80
+msgid "Documentation"
+msgstr "文档"
+
+#. translators: %s Path in plugin wrapped
+#: inc/customizer/controls/ui/subscribe-info/class-hestia-subscribe-info.php:121
+msgid "After installing the plugin, you need to navigate to %s and configure the plugin."
+msgstr "安装插件后，您需要游览到%s并配置插件。"
+
+#: inc/customizer/front-page/class-hestia-subscribe-controls.php:55
+msgid "SendinBlue plugin"
+msgstr "SendinBlue 插件"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:792
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:830
+msgid "Add Icon"
+msgstr "添加图标"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:787
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:824
+msgid "Remove Icon"
+msgstr "移除图标"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:756
+msgid "Social icons"
+msgstr "社交图标"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:742
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:158
+msgid "None"
+msgstr "无"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:737
+msgid "Image type"
+msgstr "图像类型"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:724
+msgid "Upload Image"
+msgstr "上传图像"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:721
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:741
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:97
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:152
+msgid "Image"
+msgstr "图像"
+
+#. translators: Fontawesome link with full list of icons available
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:685
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:763
+msgid "http://fontawesome.io/icons/"
+msgstr "http://fontawesome.io/icons/"
+
+#. translators: Fontawesome link with full list of icons available
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:683
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:761
+msgid "Note: Some icons may not be displayed here. You can see the full list of icons at %1$s."
+msgstr "注意：某些图标可能没有显示在此处。 您可以在 %1$s 上看到完整的图标列表。"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:677
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:740
+msgid "Icon"
+msgstr "图标"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:489
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:605
+msgid "Delete field"
+msgstr "删除字段"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:469
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:593
+#: inc/customizer/front-page/class-hestia-contact-controls.php:185
+msgid "Shortcode"
+msgstr "短代码"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:437
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:458
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:566
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:584
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:784
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:810
+#: inc/views/class-hestia-tweaks.php:174
+msgid "Link"
+msgstr "链接"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:427
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:448
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:557
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:575
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:179
+msgid "Text"
+msgstr "文本"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:417
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:548
+msgid "Subtitle"
+msgstr "字幕"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:407
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:539
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:75
+#: inc/customizer/general/class-hestia-typography-controls.php:245
+msgid "Title"
+msgstr "标题"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:384
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:396
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:519
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:529
+#: inc/views/class-hestia-tweaks.php:162 inc/views/class-hestia-tweaks.php:166
+msgid "Color"
+msgstr "颜色"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:148
+msgid "Customizer Repeater"
+msgstr "中继定制器"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:143
+msgid "Add new field"
+msgstr "添加字段"
+
+#: inc/customizer/controls/custom-controls/customizer-page-editor/class-hestia-page-editor.php:65
+#: inc/customizer/front-page/class-hestia-about-controls.php:133
+msgid "About background"
+msgstr "关于背景"
+
+#: inc/customizer/class-hestia-customizer-notices.php:114
+msgid "WooCommerce plugin"
+msgstr "WooCommerce 插件"
+
+#. translators: %1$s is Plugin Name
+#: inc/customizer/class-hestia-customizer-notices.php:113
+msgid "To have access to a shop section please install and configure %1$s."
+msgstr "要进入店铺区域，请安装并配置 %1$s 。"
+
+#. translators: %1$s is Plugin name
+#: inc/customizer/controls/ui/class-hestia-contact-info.php:37
+#: inc/helpers/layout-functions.php:722
+msgid "In order to add a contact form to this section, you need to install the %s plugin."
+msgstr "为了在此部分添加联系表单，您需要安装 %s 插件。"
+
+#: inc/views/main/class-hestia-header.php:108
+msgid "Toggle Navigation"
+msgstr "切换导航"
+
+#: inc/views/class-hestia-tweaks.php:158
+msgid "Button Text"
+msgstr "按钮文字"
+
+#: inc/compatibility/woocommerce/functions.php:416
+#: inc/core/class-hestia-public.php:341
+msgid "View cart"
+msgstr "查看购物车"
+
+#: inc/core/class-hestia-public.php:557
+msgctxt "Roboto Slab font: on or off"
+msgid "on"
+msgstr "开"
+
+#: inc/core/class-hestia-public.php:556
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr "off"
+
+#: inc/core/class-hestia-public.php:201
+msgid "Footer Three"
+msgstr "脚注 3"
+
+#: inc/core/class-hestia-public.php:200
+msgid "Footer Two"
+msgstr "脚注 2"
+
+#: inc/core/class-hestia-public.php:199
+msgid "Footer One"
+msgstr "脚注 1"
+
+#: inc/core/class-hestia-public.php:510
+msgid "Blog Subscribe Section"
+msgstr "博格订阅区域"
+
+#: inc/admin/page-settings/class-hestia-page-settings.php:34
+#: inc/core/class-hestia-public.php:184
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:130
+msgid "Sidebar"
+msgstr "边栏"
+
+#: inc/core/class-hestia-public.php:293
+msgid "Footer Menu"
+msgstr "脚注菜单"
+
+#: inc/core/class-hestia-public.php:292 inc/core/class-hestia-public.php:468
+msgid "Primary Menu"
+msgstr "主菜单"
+
+#. #-#-#-#-#  hestia.pot (Hestia 2.0.7)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: inc/core/class-hestia-public.php:509
+#: inc/customizer/class-hestia-customizer-notices.php:78
+#: inc/views/main/class-hestia-footer.php:129
+msgid "Hestia"
+msgstr "Hestia"
+
+#: comments.php:73
+msgid "Comments are closed."
+msgstr "评论已关闭。"
+
+#. translators: %s is Image sizes for attachment single page.
+#: attachment.php:48
+msgid "Size: %s"
+msgstr "文件大小：%s"
+
+#. translators: %1$s is Author name wrapped, %2$s is Date
+#: inc/views/blog/class-hestia-header-layout-manager.php:383
+msgid "Published by %1$s on %2$s"
+msgstr "于%2$s由%1$s发布"
+
+#. #-#-#-#-#  hestia.pot (Hestia 2.0.7)  #-#-#-#-#
+#. translators: %1$s is URL, %2$s is WordPress
+#. #-#-#-#-#  hestia.pot (Hestia 2.0.7)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: inc/views/main/class-hestia-footer.php:133
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#. Author of the plugin/theme
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Theme URI of the plugin/theme
+msgid "https://themeisle.com/themes/hestia/"
+msgstr "https://themeisle.com/themes/hestia/"

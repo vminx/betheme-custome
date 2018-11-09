@@ -1,0 +1,179 @@
+/*-------------------------------------------------------------------------------------------*/
+/* PCF Form */
+/*-------------------------------------------------------------------------------------------*/
+.wc_email_inquiry_hyperlink_text {
+	text-decoration:underline;
+	cursor:pointer;	
+}
+.wc_email_inquiry_form{
+	width: 100%;
+}
+.wc_email_inquiry_form_inner {
+	clear:both;	
+	margin-bottom:10px;
+}
+.wc_email_inquiry_result_heading {
+	margin:0px !important;
+}
+.wc_email_inquiry_content {
+	margin-top:10px;	
+}
+body .wc_email_inquiry_form_button, .wc_email_inquiry_form_button {
+	float:right !important;
+	margin-right:2% !important;
+}
+.wc_email_inquiry_field input, .wc_email_inquiry_field textarea{
+	-moz-box-shadow: 0px 0px 0px #FFF !important; /* Firefox */
+	-webkit-box-shadow: 0px 0px 0px #FFF !important;
+	box-shadow: 0px 0px 0px #FFF !important; 
+	width:73% !important;
+	font-size:13px !important;
+	padding:5px !important;
+}
+.wc_email_inquiry_subject {
+	width: 73%;
+	display: table;
+}
+.wc_email_inquiry_field .your_message {
+	height:65px;	
+}
+.wc_email_inquiry_field{
+	margin-bottom:10px;	
+	clear:both;			
+}
+.wc_email_inquiry_required{
+	color:red;	
+}
+.wc_email_inquiry_label{
+	width:22%;
+	float:left;
+	cursor:pointer;
+}
+.wc_email_inquiry_send_copy {
+	cursor:pointer;	
+	float:left;
+}
+.wc_email_inquiry_send_copy input, .wc_email_inquiry_field input.agree_terms {
+	width:auto !important;	
+	margin:0 !important;
+}
+.wc_email_inquiry_loading {
+	float:right;
+	display:none;
+	margin-right:5px;
+}
+.wc_email_inquiry_loading img {
+	width: 30px;
+}
+.wc_email_inquiry_button_container { 
+	display:inline-block;
+}
+.wc_email_inquiry_notification_message {
+	display: none;
+}
+.wc_email_inquiry_error_message {
+	color: #f00;
+}
+
+/* 3RD shortcode page */
+.wc_3rd_inquiry_form_container {
+	margin-top:10px;	
+}
+.wc_email_inquiry_custom_form_container {
+	position:relative;	
+}
+.wc_email_inquiry_default_image_container {
+	text-align:center;	
+}
+.wc_email_inquiry_default_image_container {
+	float: left;
+	width: calc( 22% - 10px );
+	margin-right: 10px;
+	margin-bottom: 20px;
+}
+.wc_email_inquiry_default_image_container img {
+	width: 100%;
+}
+.wc_email_inquiry_product_heading_container {
+	display: block;
+	margin-bottom: 10px;
+	padding-left: 22%;
+}
+.wc_email_inquiry_form_container {
+	display:block;	
+}
+
+/* Default Contact Form Inner Page */
+.wc_defaul_inquiry_form_inner_container {
+	margin-top:10px;
+}
+
+/* POPUP */
+#wc_email_inquiry_modal {
+  z-index: 10500000 !important;
+}
+#wc_email_inquiry_modal.loading {
+	background: url(../images/loading.gif) transparent no-repeat center center;
+	background-size: 50px;
+}
+#wc_email_inquiry_modal .modal-dialog {
+  margin-top: 50px !important;
+}
+#wc_email_inquiry_modal iframe#wc_email_inquiry_party_form {
+	width: 100%;
+	min-height: 400px;
+	z-index: 999;
+}
+#wc_email_inquiry_modal .wc_email_inquiry_iframe_container {
+	overflow: auto;
+}
+
+@media only screen and (max-width: 568px) {
+
+.wc_email_inquiry_form {
+	width:auto !important;	
+}
+
+body .wc_email_inquiry_label {
+	width:100% !important;
+	clear:both;
+}
+
+.wc_email_inquiry_default_image_container {
+	float:none !important;
+	width: auto;
+	margin-right: 0;
+}
+.wc_email_inquiry_product_heading_container {
+	padding-left: 0;
+}
+.wc_email_inquiry_image_container {
+	width:100% !important;
+	left:auto !important;
+	top: auto !important;
+	position:relative !important;
+	text-align: center;
+}
+.wc_email_inquiry_form_container {
+	margin-left:0 !important;	
+}
+
+body .wc_email_inquiry_field input, body .wc_email_inquiry_field textarea {
+	width:98% !important;
+}
+body .wc_email_inquiry_send_copy input {
+	width:auto !important;	
+}
+body .wc_email_inquiry_send_copy {
+	width:100%;
+	margin-bottom:5px;
+	float: none;
+}
+body .wc_email_inquiry_form_button, .wc_email_inquiry_form_button {
+	float:left !important;	
+}
+body .wc_email_inquiry_loading {
+	float:left !important;	
+}
+
+}

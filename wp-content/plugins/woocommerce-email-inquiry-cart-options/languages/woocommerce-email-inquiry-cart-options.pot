@@ -1,0 +1,1260 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP e-Commerce Catalog Visibility Email inquiry PRO\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-24 12:27+0700\n"
+"PO-Revision-Date: 2016-09-24 12:28+0700\n"
+"Last-Translator: Nguyen Cong Tuan <mr.nguyencongtuan@gmail.com>\n"
+"Language-Team: a3rev\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Generator: Poedit 1.6.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/admin-interface.php:178
+msgid "Great! You have the latest version installed."
+msgstr ""
+
+#: admin/admin-interface.php:243
+msgid "Settings successfully saved."
+msgstr ""
+
+#: admin/admin-interface.php:251
+msgid "Error: Settings can not save."
+msgstr ""
+
+#: admin/admin-interface.php:259
+msgid "Settings successfully reseted."
+msgstr ""
+
+#: admin/admin-interface.php:280
+msgid "Thin"
+msgstr ""
+
+#: admin/admin-interface.php:281
+msgid "Thin/Italic"
+msgstr ""
+
+#: admin/admin-interface.php:282
+msgid "Normal"
+msgstr ""
+
+#: admin/admin-interface.php:283
+msgid "Italic"
+msgstr ""
+
+#: admin/admin-interface.php:284
+msgid "Bold"
+msgstr ""
+
+#: admin/admin-interface.php:285
+msgid "Bold/Italic"
+msgstr ""
+
+#: admin/admin-interface.php:295
+msgid "Solid"
+msgstr ""
+
+#: admin/admin-interface.php:296
+msgid "Double"
+msgstr ""
+
+#: admin/admin-interface.php:297
+msgid "Dashed"
+msgstr ""
+
+#: admin/admin-interface.php:298
+msgid "Dotted"
+msgstr ""
+
+#: admin/admin-interface.php:299
+msgid "Groove"
+msgstr ""
+
+#: admin/admin-interface.php:300
+msgid "Ridge"
+msgstr ""
+
+#: admin/admin-interface.php:301
+msgid "Inset"
+msgstr ""
+
+#: admin/admin-interface.php:302
+msgid "Outset"
+msgstr ""
+
+#: admin/admin-interface.php:1572 admin/admin-interface.php:1658
+#: admin/admin-interface.php:1758 admin/admin-interface.php:1927
+#: admin/admin-interface.php:2017 admin/admin-interface.php:2046
+#: admin/settings/email-inquiry-global-settings.php:236
+#: admin/settings/email-inquiry-global-settings.php:249
+#: admin/settings/email-inquiry-global-settings.php:289
+#: admin/settings/email-inquiry/contact-form-global-settings.php:78
+#: admin/settings/rules-roles-settings.php:253
+#: admin/settings/rules-roles-settings.php:377
+#: admin/settings/rules-roles-settings.php:389
+msgid "ON"
+msgstr ""
+
+#: admin/admin-interface.php:1573 admin/admin-interface.php:1659
+#: admin/admin-interface.php:1759 admin/admin-interface.php:1928
+#: admin/admin-interface.php:2018 admin/admin-interface.php:2047
+#: admin/settings/email-inquiry-global-settings.php:237
+#: admin/settings/email-inquiry-global-settings.php:250
+#: admin/settings/email-inquiry-global-settings.php:290
+#: admin/settings/email-inquiry/contact-form-global-settings.php:79
+#: admin/settings/rules-roles-settings.php:254
+#: admin/settings/rules-roles-settings.php:378
+#: admin/settings/rules-roles-settings.php:390
+msgid "OFF"
+msgstr ""
+
+#: admin/admin-interface.php:1578
+msgid "Google Fonts API"
+msgstr ""
+
+#: admin/admin-interface.php:1590
+msgid ""
+"ON to connect to Google Fonts API and have auto font updates direct from "
+"Google."
+msgstr ""
+
+#: admin/admin-interface.php:1594
+#, php-format
+msgid ""
+"Enter your existing Google Fonts API Key below. Don't have a key? Visit <a "
+"href='%s' target='_blank'>Google Developer API</a> to create a key"
+msgstr ""
+
+#: admin/admin-interface.php:1611
+msgid "Google Fonts API Key"
+msgstr ""
+
+#: admin/admin-interface.php:1614
+msgid "Your Google API Key is valid and automatic font updates are enabled."
+msgstr ""
+
+#: admin/admin-interface.php:1615
+msgid "Please enter a valid Google API Key."
+msgstr ""
+
+#: admin/admin-interface.php:1634
+msgid "Check New Version"
+msgstr ""
+
+#: admin/admin-interface.php:1645
+msgid "Check Now"
+msgstr ""
+
+#: admin/admin-interface.php:1664
+msgid "Open Box Display"
+msgstr ""
+
+#: admin/admin-interface.php:1677
+msgid ""
+"ON and each admin panel setting box OPEN | CLOSED position are saved each "
+"time changes are SAVED."
+msgstr ""
+
+#: admin/admin-interface.php:2082
+msgid "Width"
+msgstr ""
+
+#: admin/admin-interface.php:2084
+msgid "Height"
+msgstr ""
+
+#: admin/admin-interface.php:2086
+msgid "Hard Crop"
+msgstr ""
+
+#: admin/admin-interface.php:2179
+msgid "-- Default Fonts --"
+msgstr ""
+
+#: admin/admin-interface.php:2190
+msgid "-- Google Fonts --"
+msgstr ""
+
+#: admin/admin-interface.php:2231
+msgid "Preview your customized typography settings"
+msgstr ""
+
+#: admin/admin-interface.php:2340 admin/admin-interface.php:2574
+msgid "Preview your customized border settings"
+msgstr ""
+
+#: admin/admin-interface.php:2341 admin/admin-interface.php:2508
+msgid "0px = No Border"
+msgstr ""
+
+#: admin/admin-interface.php:2349 admin/admin-interface.php:2565
+msgid "Rounded"
+msgstr ""
+
+#: admin/admin-interface.php:2350 admin/admin-interface.php:2566
+msgid "Square"
+msgstr ""
+
+#: admin/admin-interface.php:2360 admin/admin-interface.php:2579
+msgid "Top Left Corner"
+msgstr ""
+
+#: admin/admin-interface.php:2380 admin/admin-interface.php:2599
+msgid "Top Right Corner"
+msgstr ""
+
+#: admin/admin-interface.php:2400 admin/admin-interface.php:2619
+msgid "Bottom Right Corner"
+msgstr ""
+
+#: admin/admin-interface.php:2420 admin/admin-interface.php:2639
+msgid "Bottom Left Corner"
+msgstr ""
+
+#: admin/admin-interface.php:2507
+msgid "Preview your customized border styles settings"
+msgstr ""
+
+#: admin/admin-interface.php:2689
+msgid "YES"
+msgstr ""
+
+#: admin/admin-interface.php:2690
+msgid "NO"
+msgstr ""
+
+#: admin/admin-interface.php:2705
+msgid "Horizontal Shadow"
+msgstr ""
+
+#: admin/admin-interface.php:2723
+msgid "Vertical Shadow"
+msgstr ""
+
+#: admin/admin-interface.php:2741
+msgid "Blur Distance"
+msgstr ""
+
+#: admin/admin-interface.php:2759
+msgid "Spread Size"
+msgstr ""
+
+#: admin/admin-interface.php:2777
+msgid "INNER"
+msgstr ""
+
+#: admin/admin-interface.php:2778
+msgid "OUTER"
+msgstr ""
+
+#: admin/admin-interface.php:2796
+msgid "Preview your customized box shadow settings"
+msgstr ""
+
+#: admin/admin-interface.php:3064
+msgid "Save changes"
+msgstr ""
+
+#: admin/admin-interface.php:3065
+msgid "Reset Settings"
+msgstr ""
+
+#: admin/admin-pages/admin-settings-page.php:63
+#: admin/admin-pages/admin-settings-page.php:64
+msgid "Email & Cart"
+msgstr ""
+
+#: admin/admin-ui.php:113 admin/admin-ui.php:116
+msgid "Premium Version Enhanced Features"
+msgstr ""
+
+#: admin/admin-ui.php:117
+msgid "WooCommerce Dynamic Gallery Premium"
+msgstr ""
+
+#: admin/admin-ui.php:118
+msgid ""
+"Quick Video showing the main (not all) enhanced features that are built into "
+"the WooCommerce Dynamic Gallery Premium version"
+msgstr ""
+
+#: admin/admin-ui.php:119
+msgid "Developer Support and Premium Features"
+msgstr ""
+
+#: admin/admin-ui.php:120
+msgid ""
+"Limited Time Offer. Purchase the Premium Version Lifetime License. That is a "
+"Lifetime of maintenance updates, feature upgrades and developer support for "
+"a once only fee. Offer ending soon."
+msgstr ""
+
+#: admin/admin-ui.php:121
+msgid "Get Premium Features and Support"
+msgstr ""
+
+#: admin/admin-ui.php:269
+#, php-format
+msgid ""
+"Advanced Settings - Upgrade to the <a href=\"%s\" target=\"_blank\">%s "
+"License</a> to activate these settings."
+msgstr ""
+
+#: admin/admin-ui.php:272
+msgid "Quotes & Orders Version"
+msgstr ""
+
+#: admin/admin-ui.php:322 admin/admin-ui.php:341
+msgid "You should check now to see if have any new version is available"
+msgstr ""
+
+#: admin/admin-ui.php:324
+#, php-format
+msgid ""
+"Connection Failure! Please try again. If this issue persists please create a "
+"support request on the plugin <a href=\"%s\" target=\"_blank\">a3rev support "
+"forum</a>."
+msgstr ""
+
+#: admin/admin-ui.php:332
+#, php-format
+msgid ""
+"There is a new version <span class=\"a3rev-ui-new-plugin-version\">%s</span> "
+"available, <a href=\"%s\" target=\"_blank\">update now</a> or download "
+"direct from <a href=\"%s\" target=\"_blank\">My Account</a> on a3rev.com"
+msgstr ""
+
+#: admin/includes/uploader/class-uploader.php:101
+msgid "Upload"
+msgstr ""
+
+#: admin/includes/uploader/class-uploader.php:121
+msgid "View File"
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:92
+msgid "Button Style Settings successfully saved."
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:93
+msgid "Error: Button Style Settings can not save."
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:94
+msgid "Button Style Settings successfully reseted."
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:171
+msgid "Inquiry Button Style"
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:215
+msgid "Email Inquiry Button / Hyperlink"
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:221
+msgid "Button or Hyperlink Text"
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:228
+msgid "Button"
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:229
+msgid "Hyperlink"
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:233
+msgid "Relative Position"
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:234
+msgid "Position relative to add to cart button location"
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:240
+msgid "Below"
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:241
+msgid "Above"
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:245
+msgid "Button or Hyperlink Margin"
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:252
+msgid "Top"
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:258
+msgid "Bottom"
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:265
+msgid "Left"
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:272
+msgid "Right"
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:287
+msgid "Email Inquiry Button Style"
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:294
+msgid "Button Text"
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:295
+msgid "Leave Empty and button text will be 'Product Enquiry'"
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:298
+#: classes/class-wc-email-inquiry-hook.php:141
+#: classes/class-wc-email-inquiry-hook.php:244
+msgid "Product Enquiry"
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:301
+#: admin/settings/email-inquiry/popup-form-style-settings.php:174
+msgid "Button Font"
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:307
+msgid "Button Padding"
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:308
+msgid "Padding from Button text to Button border"
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:313
+msgid "Top/Bottom"
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:318
+msgid "Left/Right"
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:324
+#: admin/settings/email-inquiry/popup-form-style-settings.php:40
+#: admin/settings/email-inquiry/popup-form-style-settings.php:133
+#: admin/settings/email-inquiry/popup-form-style-settings.php:180
+msgid "Background Colour"
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:325
+#: admin/settings/email-inquiry-button-style-settings.php:332
+#: admin/settings/email-inquiry-button-style-settings.php:339
+#: admin/settings/email-inquiry/popup-form-style-settings.php:41
+#: admin/settings/email-inquiry/popup-form-style-settings.php:134
+#: admin/settings/email-inquiry/popup-form-style-settings.php:141
+#: admin/settings/email-inquiry/popup-form-style-settings.php:181
+#: admin/settings/email-inquiry/popup-form-style-settings.php:188
+#: admin/settings/email-inquiry/popup-form-style-settings.php:195
+msgid "Default"
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:331
+#: admin/settings/email-inquiry/popup-form-style-settings.php:187
+msgid "Background Colour Gradient From"
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:338
+#: admin/settings/email-inquiry/popup-form-style-settings.php:194
+msgid "Background Colour Gradient To"
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:345
+#: admin/settings/email-inquiry/popup-form-style-settings.php:201
+msgid "Button Border"
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:351
+#: admin/settings/email-inquiry/popup-form-style-settings.php:207
+msgid "Button Shadow"
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:358
+msgid "Hyperlink Styling"
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:365
+msgid "Text Before"
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:366
+msgid "&lt;empty&gt; for default 'no text' or add text to prepent link text"
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:372
+msgid "Hyperlink Text"
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:373
+msgid "&lt;empty&gt; for default 'Click Here' or your own text"
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:376
+#: classes/class-wc-email-inquiry-hook.php:135
+#: classes/class-wc-email-inquiry-hook.php:249
+msgid "Click Here"
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:379
+msgid "Trailing Text"
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:380
+msgid "&lt;empty&gt; for default 'no text' or add text to trail linked text"
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:386
+msgid "Hyperlink Font"
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:393
+msgid "Hyperlink hover Colour"
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:408
+#: admin/settings/email-inquiry-global-settings.php:342
+#: admin/settings/rules-roles-settings.php:559
+#: admin/settings/rules-roles-settings.php:612
+msgid "Tip"
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:408
+msgid ""
+"If you see margin between the add to cart button and the email button before "
+"adding a value here that margin is added by your theme. Increasing the "
+"margin here will add to the themes default button margin."
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:410
+#: admin/settings/email-inquiry-global-settings.php:344
+#: admin/settings/rules-roles-settings.php:424
+#: admin/settings/rules-roles-settings.php:493
+#: admin/settings/rules-roles-settings.php:561
+#: admin/settings/rules-roles-settings.php:614
+msgid "Don't show again"
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:411
+#: admin/settings/email-inquiry-global-settings.php:345
+#: admin/settings/rules-roles-settings.php:425
+#: admin/settings/rules-roles-settings.php:494
+#: admin/settings/rules-roles-settings.php:562
+#: admin/settings/rules-roles-settings.php:615
+msgid "Dismiss"
+msgstr ""
+
+#: admin/settings/email-inquiry-global-settings.php:92
+msgid "Email Inquiry Settings successfully saved."
+msgstr ""
+
+#: admin/settings/email-inquiry-global-settings.php:93
+msgid "Error: Email Inquiry Settings can not save."
+msgstr ""
+
+#: admin/settings/email-inquiry-global-settings.php:94
+msgid "Email Inquiry Settings successfully reseted."
+msgstr ""
+
+#: admin/settings/email-inquiry-global-settings.php:172
+#: admin/settings/rules-roles-settings.php:162
+#: classes/class-wc-email-inquiry-hook.php:588
+msgid "Settings"
+msgstr ""
+
+#: admin/settings/email-inquiry-global-settings.php:221
+msgid "Email Inquiry Rules and Roles"
+msgstr ""
+
+#: admin/settings/email-inquiry-global-settings.php:222
+msgid ""
+"Globally set Email Inquiry feature for all Products for not logged in users "
+"and users when they log in. Option to independently set these options for "
+"each products edit page."
+msgstr ""
+
+#: admin/settings/email-inquiry-global-settings.php:228
+#: admin/settings/rules-roles-settings.php:369
+msgid "View before log in"
+msgstr ""
+
+#: admin/settings/email-inquiry-global-settings.php:230
+msgid ""
+"ON and users will see Email Inquiry on Products Pages before they login."
+msgstr ""
+
+#: admin/settings/email-inquiry-global-settings.php:241
+#: admin/settings/rules-roles-settings.php:381
+msgid "View after login"
+msgstr ""
+
+#: admin/settings/email-inquiry-global-settings.php:243
+msgid "Select user roles that will see Email Inquiry when they log in."
+msgstr ""
+
+#: admin/settings/email-inquiry-global-settings.php:261
+#: admin/settings/rules-roles-settings.php:400
+msgid "Choose Roles"
+msgstr ""
+
+#: admin/settings/email-inquiry-global-settings.php:275
+msgid "Product Cards"
+msgstr ""
+
+#: admin/settings/email-inquiry-global-settings.php:281
+msgid "Email Inquiry Feature"
+msgstr ""
+
+#: admin/settings/email-inquiry-global-settings.php:282
+msgid ""
+"ON to show Email Inquiry feature on your Product Cards on Shop, category and "
+"tags pages."
+msgstr ""
+
+#: admin/settings/email-inquiry-global-settings.php:307
+msgid "Select a Pop-Up Tool"
+msgstr ""
+
+#: admin/settings/email-inquiry-global-settings.php:314
+msgid "Pop-Up Tool"
+msgstr ""
+
+#: admin/settings/email-inquiry-global-settings.php:321
+msgid "FANCYBOX"
+msgstr ""
+
+#: admin/settings/email-inquiry-global-settings.php:322
+msgid "COLORBOX"
+msgstr ""
+
+#: admin/settings/email-inquiry-global-settings.php:342
+msgid ""
+"If a product does not have a price set (even 0) it is a function of "
+"WooCommmerce that the add to cart function is removed from the product. The "
+"Email Inquiry button hooks to that function and if it is not present the "
+"button cannot show. Also if a bespoke theme has removed the WooCommerce add "
+"to cart template and replaced it with a custom template the button cannot "
+"show on any products."
+msgstr ""
+
+#: admin/settings/email-inquiry/contact-form-global-settings.php:38
+msgid "Default Form Settings"
+msgstr ""
+
+#: admin/settings/email-inquiry/contact-form-global-settings.php:45
+msgid "Email 'From' Settings"
+msgstr ""
+
+#: admin/settings/email-inquiry/contact-form-global-settings.php:50
+msgid "\"From\" Name"
+msgstr ""
+
+#: admin/settings/email-inquiry/contact-form-global-settings.php:51
+msgid "Leave empty and your site title will be use"
+msgstr ""
+
+#: admin/settings/email-inquiry/contact-form-global-settings.php:58
+msgid "\"From\" Email Address"
+msgstr ""
+
+#: admin/settings/email-inquiry/contact-form-global-settings.php:59
+#: admin/settings/email-inquiry/contact-form-global-settings.php:89
+msgid "Leave empty and your WordPress admin email address will be used"
+msgstr ""
+
+#: admin/settings/email-inquiry/contact-form-global-settings.php:66
+msgid "Sender 'Request A Copy'"
+msgstr ""
+
+#: admin/settings/email-inquiry/contact-form-global-settings.php:71
+msgid "Send Copy to Sender"
+msgstr ""
+
+#: admin/settings/email-inquiry/contact-form-global-settings.php:72
+msgid ""
+"Gives users a checkbox option to send a copy of the Inquiry email to "
+"themselves"
+msgstr ""
+
+#: admin/settings/email-inquiry/contact-form-global-settings.php:84
+msgid "Email Delivery"
+msgstr ""
+
+#: admin/settings/email-inquiry/contact-form-global-settings.php:88
+msgid "Inquiry Email goes to"
+msgstr ""
+
+#: admin/settings/email-inquiry/contact-form-global-settings.php:97
+msgid "CC"
+msgstr ""
+
+#: admin/settings/email-inquiry/contact-form-global-settings.php:98
+msgid "Leave empty and 'no copy sent'"
+msgstr ""
+
+#: admin/settings/email-inquiry/popup-form-style-settings.php:33
+msgid "Default Form Background Colour"
+msgstr ""
+
+#: admin/settings/email-inquiry/popup-form-style-settings.php:48
+msgid "Default Form Fonts and Text"
+msgstr ""
+
+#: admin/settings/email-inquiry/popup-form-style-settings.php:55
+msgid "Form Heading Text"
+msgstr ""
+
+#: admin/settings/email-inquiry/popup-form-style-settings.php:59
+msgid "Heading Text"
+msgstr ""
+
+#: admin/settings/email-inquiry/popup-form-style-settings.php:60
+msgid "Leave Empty and the form title will default to Product Inquiry"
+msgstr ""
+
+#: admin/settings/email-inquiry/popup-form-style-settings.php:71
+msgid "Text Font"
+msgstr ""
+
+#: admin/settings/email-inquiry/popup-form-style-settings.php:78
+#: classes/class-wc-email-inquiry-functions.php:173
+msgid "Product Name"
+msgstr ""
+
+#: admin/settings/email-inquiry/popup-form-style-settings.php:83
+msgid "Product Name Font"
+msgstr ""
+
+#: admin/settings/email-inquiry/popup-form-style-settings.php:90
+msgid "Product URL"
+msgstr ""
+
+#: admin/settings/email-inquiry/popup-form-style-settings.php:95
+msgid "Product URL Font"
+msgstr ""
+
+#: admin/settings/email-inquiry/popup-form-style-settings.php:102
+msgid "Form Content Font"
+msgstr ""
+
+#: admin/settings/email-inquiry/popup-form-style-settings.php:106
+msgid "Content Font"
+msgstr ""
+
+#: admin/settings/email-inquiry/popup-form-style-settings.php:114
+msgid "Email Subject Name"
+msgstr ""
+
+#: admin/settings/email-inquiry/popup-form-style-settings.php:119
+msgid "Subject Name Font"
+msgstr ""
+
+#: admin/settings/email-inquiry/popup-form-style-settings.php:126
+msgid "Default Form Text Input Fileds"
+msgstr ""
+
+#: admin/settings/email-inquiry/popup-form-style-settings.php:140
+msgid "Font Colour"
+msgstr ""
+
+#: admin/settings/email-inquiry/popup-form-style-settings.php:147
+msgid "Input Field Borders"
+msgstr ""
+
+#: admin/settings/email-inquiry/popup-form-style-settings.php:154
+msgid "Default Form SEND Button"
+msgstr ""
+
+#: admin/settings/email-inquiry/popup-form-style-settings.php:161
+msgid "Send Button Text"
+msgstr ""
+
+#: admin/settings/email-inquiry/popup-form-style-settings.php:162
+msgid "Leave empty and button will show SEND"
+msgstr ""
+
+#: admin/settings/email-inquiry/popup-form-style-settings.php:165
+#: classes/class-wc-email-inquiry-hook.php:260
+msgid "SEND"
+msgstr ""
+
+#: admin/settings/email-inquiry/success-message-settings.php:32
+msgid "Default Form Success Message"
+msgstr ""
+
+#: admin/settings/email-inquiry/success-message-settings.php:39
+msgid "Success Message"
+msgstr ""
+
+#: admin/settings/email-inquiry/success-message-settings.php:40
+msgid "Message that user will see after their Inquiry is sent."
+msgstr ""
+
+#: admin/settings/email-inquiry/success-message-settings.php:44
+#: classes/class-wc-email-inquiry-functions.php:108
+msgid ""
+"Thanks for your inquiry - we'll be in touch with you as soon as possible!"
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:92
+msgid "Rules & Roles Settings successfully saved."
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:93
+msgid "Error: Rules & Roles Settings can not save."
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:94
+msgid "Rules & Roles Settings successfully reseted."
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:210
+msgid "Manual Quote"
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:211
+msgid "Auto Quote"
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:217
+msgid "Plugin Framework Global Settings"
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:224
+msgid "Customize Admin Setting Box Display"
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:225
+msgid ""
+"By default each admin panel will open with all Setting Boxes in the CLOSED "
+"position."
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:232
+msgid "Google Fonts"
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:233
+msgid ""
+"By Default Google Fonts are pulled from a static JSON file in this plugin. "
+"This file is updated but does not have the latest font releases from Google."
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:240
+msgid "House Keeping"
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:244
+msgid "Clean up on Deletion"
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:245
+msgid ""
+"On deletion (not deactivate) the plugin will completely remove all tables "
+"and data it created, leaving no trace it was ever here."
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:258
+msgid "Help Notes"
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:263
+msgid "Rules & Roles Help Notes"
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:270
+#: admin/settings/rules-roles-settings.php:290
+#: admin/settings/rules-roles-settings.php:326
+msgid "SHOW"
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:271
+#: admin/settings/rules-roles-settings.php:291
+#: admin/settings/rules-roles-settings.php:327
+msgid "HIDE"
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:273
+msgid ""
+"Product Page Rules apply a single action Rule to all product pages which can "
+"be filtered on a per User Role basis. These Rules can also be varied on a "
+"product by product basis from each product edit page"
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:275
+msgid "Set Rules that apply to Product Pages or your entire store."
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:276
+msgid ""
+"The Rules are applied to users who are NOT Logged in and Rules for when they "
+"login in."
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:277
+msgid ""
+"Different Rules can be applied to logged in users based upon their user Role "
+"e.g. what users with the Customer Role see verses what users with the "
+"Subscriber role see."
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:279
+msgid ""
+"<strong>Important!</strong> When an admin sets a Rule for NOT logged in "
+"users if they then check the front end to see the new Rule they will not see "
+"it, because they are logged in as administrator and have not applied that "
+"Rule to their role (this catches a lot of first time users who think the "
+"plugin is not working because they can't see the rule applied while they are "
+"logged in but can when they log out)."
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:283
+msgid "Troubleshooting"
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:293
+msgid "Below is a list of common issues we see"
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:294
+msgid "<strong>Don't See Rules Applied on front end.</strong>"
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:296
+msgid ""
+"This is because you have not applied the Rule to your logged in user role "
+"(administrator). Either apply your role to the rule or check it in another "
+"browser where you are not logged in."
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:299
+msgid ""
+"<Strong>'Add to' Button and or Email Inquiry, Read More button does not show "
+"on some products.</strong>"
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:301
+msgid ""
+"The 'Add to' Button e.g. Add to Quote button is the WooCommerce Add to Cart "
+"Button."
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:302
+msgid ""
+"The Email Inquiry and Read More Buttons are hooked to the add to cart button."
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:304
+msgid ""
+"There are 2 circumstances that WooCommerce removes the 'Add to Cart' "
+"function from the Product card and Product page. If either of these apply to "
+"a product then Quotes and Orders has nothing to hook to and cannot work. "
+"Those 2 are:"
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:306
+msgid "IF a product has no price entered."
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:307
+msgid "If 'Inventory Management' is ON and the product is 'out of Stock'."
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:314
+msgid "WooCommerce Quotes and Orders Upgrade"
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:319
+msgid "Advanced Features"
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:329
+msgid ""
+"The WooCommerce Quotes and Orders plugin is an upgrade version for store "
+"owners who want all the feature of WooCommerce Email Inquiry plus advanced "
+"cart rules, Manual Quotes. Auto Quotes and Add to Order"
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:330
+msgid "Manual Quotes Rule"
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:332
+msgid "Customers to create a basket of items and submit them for a quote."
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:333
+msgid "Quote Request is created as a WooCommerce Order."
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:334
+msgid "Admin edits Order and submits it by email from the order edit page."
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:335
+msgid "Only Prices customers sees are those in the submitted quote."
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:336
+msgid ""
+"Quote is converted into a Payable Order by changing order status to Payment "
+"Pending."
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:339
+msgid "Auto Quotes Rule"
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:341
+msgid "All the same features as manual quotes except Quote is Auto."
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:342
+msgid ""
+"Customer submits quote request, the email has all product prices, shipping "
+"and taxes."
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:343
+msgid "Auto Quotes order status is Payment Pending and can be paid for online."
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:346
+msgid "Orders Rule"
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:348
+msgid "Genuine Business to Business (B2B) orders functionality."
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:349
+msgid "Customers use WooCommerce as a virtual order pad."
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:350
+msgid "Never see payment gateways or payment requests unless admin wants that."
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:351
+msgid "Use for Add to Quote if you want Prices visible."
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:354
+msgid ""
+"Just like the Product Page Rules the Manual Quotes, Auto Quotes and Add to "
+"Order Rules can be applied to not logged in users and by user role after "
+"login."
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:355
+msgid ""
+"WooCommerce Quotes and Orders is a once only payment Lifetime License plugin "
+"(not annual subscription). View details here on the a3rev.com site."
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:356
+msgid "Special Offer!"
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:357
+msgid ""
+"Upgrade to WooCommerce Quotes and Orders within 60 days of purchasing your "
+"WooCommerce Email Inquiry Cart & Options License and we will refund for the "
+"full price paid for your Email Inquiry Cart & Options License."
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:362
+msgid "Product Page Rule: Hide 'Add to Cart'"
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:363
+msgid ""
+"This Rule hides the add to cart button on all products. Hide or show add to "
+"cart can be set independently of these global settings from each product "
+"edit page."
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:370
+msgid ""
+"ON and your stores add to cart button will be hidden from all users before "
+"they log in."
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:382
+msgid ""
+"Select user roles that you do not want to see add to cart when they log in."
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:422
+#: admin/settings/rules-roles-settings.php:491
+#: admin/settings/rules-roles-settings.php:559
+msgid "Note"
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:422
+#: admin/settings/rules-roles-settings.php:491
+msgid ""
+"If you do not apply Rules to your role i.e. 'administrator' you will need to "
+"either log out or open the site in another browser where you are not logged "
+"in to see the Rule feature is activated."
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:559
+msgid ""
+"When you assign the Administrator Role to Manual Quotes and create a test "
+"Manual Quote Request you will get 2 Quote Request Received emails - the site "
+"admins copy and the customers copy"
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:559
+msgid ""
+"The admin email shows the order sub total amount. This is not a bug. Check "
+"the customers copy and you will see it shows no prices for each product and "
+"no sub total amount."
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:612
+msgid ""
+"This only applies if you are using a Bespoke theme and the Theme developer "
+"has removed the woocommerce.css and replaced it with a custom template that "
+"uses a different HTML structure. This is very bad practise but there are "
+"plenty of Bespoke Theme developers who do it. You will know if you have such "
+"a theme because in Quotes or Orders mode on the Cart page, Checkout page and "
+"Order received pages layout and style will be broken."
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:612
+msgid ""
+"If you have this issue and after activating this feature you still have "
+"issues with the WooCommerce page layouts and style it will be because the "
+"custom HTML structure of the theme is over riding the woocommerce.css. If "
+"using WooCommerce Quotes and Orders is important to your stores "
+"functionality you should do one of 2 things."
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:612
+msgid "1. Contact the theme developer and ask them to fix their code."
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:612
+msgid ""
+"2. Ask for a refund and choose a theme that is 100% WooCommerce Compatible "
+"(It is not hard the Default WordPress themes are all 100% compatible)."
+msgstr ""
+
+#: admin/tabs/email-inquiry-tab.php:78
+msgid "Email Inquiry"
+msgstr ""
+
+#: admin/tabs/rules-roles-tab.php:78
+msgid "Rules & Roles"
+msgstr ""
+
+#: classes/class-wc-email-inquiry-functions.php:147
+msgid "Email inquiry for"
+msgstr ""
+
+#: classes/class-wc-email-inquiry-functions.php:148
+msgid "[Copy]: Email inquiry for"
+msgstr ""
+
+#: classes/class-wc-email-inquiry-functions.php:156
+#: classes/class-wc-email-inquiry-hook.php:274
+msgid "Name"
+msgstr ""
+
+#: classes/class-wc-email-inquiry-functions.php:162
+msgid "Email Address"
+msgstr ""
+
+#: classes/class-wc-email-inquiry-functions.php:168
+#: classes/class-wc-email-inquiry-hook.php:280
+msgid "Phone"
+msgstr ""
+
+#: classes/class-wc-email-inquiry-functions.php:178
+#: classes/class-wc-email-inquiry-hook.php:286
+msgid "Message"
+msgstr ""
+
+#: classes/class-wc-email-inquiry-functions.php:217
+msgid "Sorry, this product don't enable email inquiry."
+msgstr ""
+
+#: classes/class-wc-email-inquiry-hook.php:256
+msgid "Product Inquiry"
+msgstr ""
+
+#: classes/class-wc-email-inquiry-hook.php:277
+msgid "Email"
+msgstr ""
+
+#: classes/class-wc-email-inquiry-hook.php:283
+msgid "Subject"
+msgstr ""
+
+#: classes/class-wc-email-inquiry-hook.php:425
+msgid "Please enter your Name"
+msgstr ""
+
+#: classes/class-wc-email-inquiry-hook.php:429
+msgid "Please enter valid Email address"
+msgstr ""
+
+#: classes/class-wc-email-inquiry-hook.php:433
+msgid "Please enter your Phone"
+msgstr ""
+
+#: classes/class-wc-email-inquiry-hook.php:525
+#: classes/class-wc-email-inquiry-hook.php:538
+#: classes/class-wc-email-inquiry-hook.php:544
+#: classes/class-wc-email-inquiry-hook.php:550
+msgid "Go to Support Forum"
+msgstr ""
+
+#: classes/class-wc-email-inquiry-hook.php:556
+msgid "Connect with us via"
+msgstr ""
+
+#: classes/class-wc-email-inquiry-hook.php:557
+msgid "a3rev Facebook"
+msgstr ""
+
+#: classes/class-wc-email-inquiry-hook.php:558
+msgid "a3rev Twitter"
+msgstr ""
+
+#: classes/class-wc-email-inquiry-hook.php:565
+msgid "WooCommerce Plugins"
+msgstr ""
+
+#: classes/class-wc-email-inquiry-hook.php:582
+msgid "Documentation"
+msgstr ""
+
+#: classes/class-wc-email-inquiry-hook.php:583
+msgid "Support"
+msgstr ""
+
+#: templates/emails/order-new-account.php:12
+#: templates/emails/plain/order-new-account.php:10
+#: templates/emails/plain/quote-new-account.php:10
+#: templates/emails/plain/send-quote.php:11
+#: templates/emails/quote-new-account.php:12
+#: templates/emails/send-quote.php:12
+msgid "Please Upgrade to WooCommerce Quotes and Orders plugin"
+msgstr ""
